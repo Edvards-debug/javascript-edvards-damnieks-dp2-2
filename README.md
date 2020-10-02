@@ -1,1 +1,2 @@
-# javascript-edvards-damnieks-dp2-2
+# JavaScript intro
+##02.10.2020.
